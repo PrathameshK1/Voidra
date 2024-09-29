@@ -1,0 +1,5 @@
+langchain>=0.1.10,<0.2.0
+crewai==0.30.11
+crewai_tools==0.2.6
+deep_translator==1.11.4
+python-dotenv==1.0.1
