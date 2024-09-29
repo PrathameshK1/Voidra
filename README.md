@@ -65,6 +65,8 @@ Voidra implements an advanced investment management system using three specializ
 
 This workflow ensures a comprehensive approach to investment management, balancing profit maximization with robust risk management throughout the trading lifecycle.
 
+it generates a report after complettion and gives you the option to create a translated version of it in 243 different languages for catering to geopgrahical specific needs 
+
 ## How to Run the Project
 
 ### Requirements
