@@ -77,12 +77,8 @@ it generates a report after complettion and gives you the option to create a tra
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository
 
-   ```
-   git clone https://github.com/brprado/CrewAI-Investiment-Risk.git
-   cd CrewAI-Investiment-Risk
-   ```
 
 2. Install requirements:
 
