@@ -12,12 +12,12 @@ Voidra is an advanced AI-powered investment research platform that combines the 
 
 ### Key Features
 
-- ** Multi-Agent AI System**: Three specialized AI agents working in concert
-- ** Real-time Market Data**: Live financial data from trusted sources
-- ** Chain of Thought Analysis**: Systematic reasoning with step-by-step insights
-- ** Flexible Workflows**: Customizable analysis types for different needs
-- ** Multi-language Support**: Reports in 25+ languages
-- ** Professional Reporting**: Institutional-grade analysis reports
+- Multi-Agent AI System: Three specialized AI agents working in concert
+- Real-time Market Data**: Live financial data from trusted sources
+- Chain of Thought Analysis: Systematic reasoning with step-by-step insights
+- Flexible Workflows: Customizable analysis types for different needs
+- Multi-language Support: Reports in 25+ languages
+- Professional Reporting: Institutional-grade analysis reports
 
 ---
 
