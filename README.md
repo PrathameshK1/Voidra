@@ -259,10 +259,115 @@ translated_file = voidra.translate_report("report.md", "es")
 
 ---
 
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+# ⚠️ IMPORTANT DISCLAIMER
+
+## 🚨 NOT FOR ACTUAL TRADING OR INVESTMENT DECISIONS
+
+**Voidra is an educational and research tool designed for learning, experimentation, and academic purposes only.**
+
+---
+
+## 📋 DISCLAIMER OF LIABILITY
+
+### **NO FINANCIAL ADVICE**
+This software and its outputs do not constitute financial advice, investment recommendations, or trading signals. The analysis provided by Voidra is for educational and research purposes only.
+
+### **NOT FOR ACTUAL TRADING**
+- ❌ **DO NOT** use this tool for actual trading decisions
+- ❌ **DO NOT** rely on its outputs for real investment choices
+- ❌ **DO NOT** use it to manage real money or portfolios
+- ❌ **DO NOT** consider it a substitute for professional financial advice
+
+### **EDUCATIONAL PURPOSE ONLY**
+- ✅ Use for learning about investment analysis concepts
+- ✅ Use for understanding AI applications in finance
+- ✅ Use for academic research and experimentation
+- ✅ Use for developing programming and AI skills
+
+---
+
+## 🔒 LIMITATION OF LIABILITY
+
+### **NO WARRANTIES**
+This software is provided "AS IS" without any warranties, express or implied. The developers make no representations about the accuracy, reliability, or suitability of the analysis for any purpose.
+
+### **NO RESPONSIBILITY FOR LOSSES**
+The developers and contributors are not responsible for any financial losses, damages, or consequences that may result from:
+- Using this software for actual trading
+- Relying on the analysis for investment decisions
+- Any misinterpretation of the results
+- Technical issues or bugs in the software
+
+### **USER RESPONSIBILITY**
+By using this software, you acknowledge that:
+- You understand this is for educational purposes only
+- You will not use it for actual trading or investment decisions
+- You accept all risks associated with using the software
+- You are responsible for your own actions and decisions
+
+---
+
+## 📚 INTENDED USE CASES
+
+### **Appropriate Uses:**
+- 🎓 **Academic Research**: Studying AI applications in finance
+- 🔬 **Experimentation**: Testing AI models and algorithms
+- 💻 **Programming Practice**: Learning Python and AI development
+- 📊 **Educational Demonstrations**: Understanding investment concepts
+- 🧪 **Prototype Development**: Building and testing ideas
+
+### **Inappropriate Uses:**
+- 💰 **Actual Trading**: Making real buy/sell decisions
+- 📈 **Portfolio Management**: Managing real investment portfolios
+- 🎯 **Investment Recommendations**: Advising others on investments
+- 📊 **Financial Planning**: Planning real financial strategies
+- 🏦 **Professional Services**: Using in professional financial services
+
+---
+
+## ⚖️ LEGAL NOTICES
+
+### **Regulatory Compliance**
+This software is not registered with any financial regulatory authority and should not be used in regulated financial activities.
+
+### **Professional Standards**
+The analysis does not meet professional standards for financial advice and should not be used in professional contexts.
+
+### **Data Accuracy**
+While the software uses reliable data sources, the analysis may contain errors, inaccuracies, or outdated information.
+
+---
+
+## 🛡️ SAFETY GUIDELINES
+
+### **Before Using This Software:**
+1. **Understand the Purpose**: This is for learning, not trading
+2. **Consult Professionals**: Seek real financial advice from qualified professionals
+3. **Do Your Research**: Verify any information independently
+4. **Start Small**: Begin with educational experiments only
+5. **Stay Informed**: Keep learning about proper investment practices
+
+### **If You Want to Start Real Trading:**
+1. **Get Professional Advice**: Consult with licensed financial advisors
+2. **Use Regulated Platforms**: Use official, regulated trading platforms
+3. **Start with Paper Trading**: Practice with simulated trading first
+4. **Understand Risks**: Learn about market risks and volatility
+5. **Follow Regulations**: Comply with all applicable financial regulations
+
+
+
+## ✅ ACKNOWLEDGMENT
+
+By using Voidra, you acknowledge that you have read, understood, and agree to this disclaimer. You understand that this software is for educational and research purposes only and should not be used for actual trading or investment decisions.
+
+---
+
+**Remember: This is a tool for learning and experimentation, not for making real money decisions!**
+
 
