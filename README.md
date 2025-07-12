@@ -12,12 +12,12 @@ Voidra is an advanced AI-powered investment research platform that combines the 
 
 ### Key Features
 
-- Multi-Agent AI System: Three specialized AI agents working in concert
-- Real-time Market Data**: Live financial data from trusted sources
+- Multi-Agent AI System: Three specialized AI agents working in conjuction
+- Real-time Market Data: Live financial data from trusted news sources
 - Chain of Thought Analysis: Systematic reasoning with step-by-step insights
 - Flexible Workflows: Customizable analysis types for different needs
-- Multi-language Support: Reports in 25+ languages
-- Professional Reporting: Institutional-grade analysis reports
+- Multi-language Support: Reports in 249+ languages
+
 
 ---
 
@@ -166,8 +166,7 @@ SERPER_API_KEY=your_serper_api_key
 
 # Optional
 LOG_LEVEL=INFO
-MAX_TOKENS=4096
-TEMPERATURE=0.1
+
 ```
 
 ### Customization Options
@@ -182,7 +181,7 @@ TEMPERATURE=0.1
 ## 🌍 International Support
 
 ### Supported Languages
-Voidra supports 25+ languages across three regions:
+Voidra supports 249+ languages across several regions of the world:
 
 **Global Markets**
 - Spanish, French, German, Italian, Portuguese
